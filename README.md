@@ -1,3 +1,6 @@
+.env with apikey and yc username and password
+
+
 question.json is used in rag for extractiong the questions it should in the same directory as rag
 
 then we will run the rag 
@@ -14,3 +17,4 @@ at last run the agent.py
 it will fill the form
 
 ### we run code in mac so install tesseract according to system
+
