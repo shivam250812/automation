@@ -12,3 +12,5 @@ in agent.py we have used reviewed_qa_pairs.json this has to change in agent.py i
 at last run the agent.py 
 
 it will fill the form
+
+### we run code in mac so install tesseract according to system
