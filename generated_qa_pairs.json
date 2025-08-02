@@ -1,0 +1,346 @@
+[
+  {
+    "question": "Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain.",
+    "ai_answer": "The primary coder and person responsible for all core technical development is Anya Sharma, who is the co-founder and CTO. Additionally, Ben Carter, a part-time contract developer who is a non-founder, assists with front-end development and UI/UX implementation. Ben has been working with the team for the past three months and has contributed approximately 30% of the current codebase.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "Are you looking for a cofounder?",
+    "ai_answer": "No, we have a complete founding team.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.4,
+    "edited": false
+  },
+  {
+    "question": "Please record a one minute video introducing the founder(s).",
+    "ai_answer": "To create a one-minute video introducing the founders, you can follow this script:\n\n---\n\n[Opening shot: A friendly, professional setting with the founders sitting together or individually, smiling at the camera.]\n\n**[Rahul Verma]**: \"Hello, I'm Rahul Verma, the CEO and co-founder of our startup. I currently live in Bengaluru, India. I've been working full-time on this project for the past eight months, focusing on market research and developing our initial concept. My background is in [mention relevant background or experience], and I'm passionate about leveraging technology to enhance content creation.\"\n\n**[Anya Sharma]**: \"And I'm Anya Sharma, the CTO and co-founder. I live in Delhi, India, and joined the team six months ago. As the primary coder, I handle all core technical development, utilizing my expertise in [mention relevant background or experience]. I'm excited about the potential of AI to transform how we create and interact with content.\"\n\n[Cut to a shot of both founders together, if possible.]\n\n**[Rahul Verma]**: \"Together, we are building a platform with advanced AI text generation capabilities. Our goal is to empower creators by reducing the effort required for content creation, allowing them to focus on strategy and creativity.\"\n\n**[Anya Sharma]**: \"After Y Combinator, we plan to move our base to San Francisco to tap into the vibrant startup ecosystem and access a larger talent pool. We believe this move will accelerate our growth and open up new opportunities.\"\n\n[Closing shot: Both founders smiling.]\n\n**[Rahul Verma]**: \"Thank you for taking the time to learn about us. We look forward to sharing more about our journey and innovations.\"\n\n**[Anya Sharma]**: \"Stay tuned for exciting updates from our team!\"\n\n[End with a logo or contact information, if applicable.]\n\n---\n\nThis script provides a concise introduction to the founders, their roles, and their vision for the company, all within a one-minute timeframe.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "Company name",
+    "ai_answer": "Innovate Solutions",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.4,
+    "edited": false
+  },
+  {
+    "question": "Describe what your company does in 50 characters or less.",
+    "ai_answer": "AI-powered tools for content creators.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.4,
+    "edited": false
+  },
+  {
+    "question": "Company URL, if any",
+    "ai_answer": "The company URL is www.innovatesolutions.ai.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.4,
+    "edited": false
+  },
+  {
+    "question": "If you have a demo, attach it below.",
+    "ai_answer": "The context provided does not mention a specific demo file or link that can be attached. However, it does provide a product link for the dashboard of Innovate Solutions' platform, which could potentially serve as a demo for interested parties. The product link is: [app.innovatesolutions.ai/dashboard](http://app.innovatesolutions.ai/dashboard). You can use the login credentials provided (Username: testuser@innovatesolutions.ai, Password: DemoPass123!) to access the platform and explore its features.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "Please provide a link to the product, if any.",
+    "ai_answer": "The product link for Innovate Solutions' \"ContentGenius\" platform is: [app.innovatesolutions.ai/dashboard](http://app.innovatesolutions.ai/dashboard)",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "If login credentials are required for the link above, enter them here.",
+    "ai_answer": "Username: testuser@innovatesolutions.ai  \nPassword: DemoPass123!",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.6,
+    "edited": false
+  },
+  {
+    "question": "What is your company going to make? Please describe your product and what it does or will do.",
+    "ai_answer": "Innovate Solutions is developing \"ContentGenius,\" an AI-driven platform designed to assist content creators in generating high-quality, engaging text and multimedia content. The platform will offer features such as AI-powered text generation for articles, social media posts, and scripts. Additionally, it will provide intelligent image and video suggestions and content optimization for SEO. The aim of ContentGenius is to significantly reduce the time and effort required for content creation, allowing creators to focus more on strategy and creativity.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "Where do you live now, and where would the company be based after YC?",
+    "ai_answer": "Currently, Rahul Verma (Founder 1) lives in Bengaluru, India, and Anya Sharma (Founder 2) lives in Delhi, India. After YC, the company plans to be based in San Francisco, California.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "Explain your decision regarding location.",
+    "ai_answer": "The decision to move to San Francisco after Y Combinator (YC) is driven by the need to access a vibrant startup community, a larger talent pool, and proximity to venture capital firms. While the team acknowledges the talent available in India, being in the Bay Area is expected to accelerate their growth, enhance networking opportunities, and improve fundraising prospects. The strategic relocation is aimed at leveraging the unique advantages that San Francisco offers to startups, particularly in terms of resources and connections essential for scaling their business.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "How far along are you?",
+    "ai_answer": "We have a functional MVP with core AI text generation capabilities and a basic user interface. We are conducting private beta testing with 50 selected users.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "How long have each of you been working on this? How much of that has been full-time? Please explain.",
+    "ai_answer": "Rahul Verma (CEO) has been working on the project for a total of 11 months. He spent the first 3 months on market research and initial concept development part-time. After that, he has been working full-time for 8 months. Anya Sharma (CTO) joined the project 6 months ago and has been working full-time since then.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "What tech stack are you using, or planning to use, to build this product? Include AI models and AI coding tools you use.",
+    "ai_answer": "The tech stack being used to build the product includes:\n\n- **Backend**: Python with Flask/FastAPI\n- **Frontend**: React.js\n- **Database**: PostgreSQL\n- **Cloud Platform**: AWS (EC2, S3, RDS)\n- **AI Models**: OpenAI’s GPT-4, fine-tuned BERT\n- **AI Coding Tools**: GitHub Copilot, Tabnine",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "Are people using your product?",
+    "ai_answer": "Yes, there are 50 active users in the private beta program.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.6,
+    "edited": false
+  },
+  {
+    "question": "Do you have revenue?",
+    "ai_answer": "No, the company does not have revenue yet. They are currently in the pre-revenue beta testing phase.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?",
+    "ai_answer": "The context provided does not explicitly mention whether the team is applying with the same idea as a previous Y Combinator batch or if they have pivoted from a previous idea. However, based on the information given, it seems that the team is focused on developing an AI text generation product, with a functional MVP currently in private beta testing. There is no mention of a previous application or a pivot from a different idea.\n\nIf they are applying with the same idea as a previous batch, it is not clear from the context what changes, if any, have been made since the last application. If they applied with a different idea previously, there is no information provided about why they pivoted or what they learned from the last idea.\n\nTo provide a comprehensive answer, additional information about any previous applications or pivots would be necessary.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.3,
+    "edited": false
+  },
+  {
+    "question": "If you have already participated or committed to participate in an incubator, \"accelerator\" or \"pre-accelerator\" program, please tell us about it.",
+    "ai_answer": "We have committed to participating in Y Combinator. We were convinced to apply due to YC's track record, network, and guidance for early-stage startups. Additionally, we attended Startup School in March 2025, which further solidified our decision to pursue YC as a valuable opportunity for our startup's growth and development.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?",
+    "ai_answer": "We chose this idea because we identified a significant pain point for content creators in consistently producing high-quality content. Anya Sharma, our CTO, has 7 years of experience in Natural Language Processing (NLP) and Artificial Intelligence (AI), which provides us with strong domain expertise in developing AI-driven solutions. Rahul Verma, our CEO, has 5 years of experience in digital marketing, which complements our understanding of the content creation market and its needs.\n\nOur decision to pursue this idea is backed by market research and feedback from our beta testing, which confirm a strong demand for our solution. The feedback indicates that content creators are actively seeking tools that can help them streamline their content production processes while maintaining quality, which aligns with the capabilities of our product. This combination of domain expertise and validated market demand gives us confidence in the potential success of our venture.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "Who are your competitors? What do you understand about your business that they don't?",
+    "ai_answer": "Our main competitors are Jasper, Copy.ai, and Rytr. What differentiates our business from these competitors is our holistic approach to content creation, which includes not only text but also multimedia and SEO integration. This comprehensive strategy addresses a broader range of content creation needs, potentially offering more value to users who require diverse content types and optimization for search engines.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "How do or will you make money? How much could you make?",
+    "ai_answer": "The company plans to make money using a subscription-based SaaS model with freemium, standard, and premium tiers. They project an Annual Recurring Revenue (ARR) of $500,000 in the first year, with the potential to scale to $5 million in three years.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "Which category best applies to your company?",
+    "ai_answer": "The category that best applies to the company is \"Artificial Intelligence / SaaS.\"",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.6,
+    "edited": false
+  },
+  {
+    "question": "If you had any other ideas you considered applying with, please list them.",
+    "ai_answer": "The provided context does not mention any other ideas that were considered for application to Y Combinator. The focus is on the current startup with a functional MVP and the efforts of the founders, Rahul Verma and Anya Sharma, in developing it.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "Have you formed ANY legal entity yet?",
+    "ai_answer": "Yes, they have formed a legal entity. The company is called Innovate Solutions Private Limited, and it was formed in Karnataka, India.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "Have you taken any investment yet?",
+    "ai_answer": "No, the company has not taken any investment yet. The $15,000 in the bank is from personal savings of the founders.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "Are you currently fundraising?",
+    "ai_answer": "No, they are not currently fundraising. They are focused on product development and securing a spot in Y Combinator.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "What convinced you to apply to Y Combinator? Did someone encourage you to apply? Have you been to any YC events?",
+    "ai_answer": "What convinced us to apply to Y Combinator was YC's track record, network, and guidance for early-stage startups. We were not specifically encouraged by an individual to apply, but we learned about Y Combinator through tech news, podcasts, and attending Startup School. We have indeed been to a YC event, as we attended Startup School in March 2025.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "How did you hear about Y Combinator?",
+    "ai_answer": "They heard about Y Combinator through tech news, podcasts, and Startup School.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.6,
+    "edited": false
+  },
+  {
+    "question": "How much revenue?",
+    "ai_answer": "$0. The company is currently in the pre-revenue beta testing phase.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.6,
+    "edited": false
+  },
+  {
+    "question": "Where does your revenue come from? If your revenue comes from multiple sources (e.g., multiple products, multiple companies or a mix of consulting and this product), please break down how much is coming from each source.",
+    "ai_answer": "Currently, the company does not have any revenue. They are in the pre-revenue beta testing phase with 50 active users in their private beta program. The company plans to generate revenue in the future through a subscription-based SaaS model with freemium, standard, and premium tiers. However, as of now, there is no revenue coming from any source.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "Anything else you would like us to know regarding your revenue or growth rate?",
+    "ai_answer": "Currently, we are in the pre-revenue phase with 50 active users participating in our private beta program. We anticipate launching a public beta with a freemium model by September 2025, which will mark the beginning of our revenue generation. Our revenue model is based on a subscription-based SaaS approach with freemium, standard, and premium tiers. We project achieving an Annual Recurring Revenue (ARR) of $500K in the first year, with the potential to scale to $5M in three years. Our growth strategy is focused on product development and securing a spot in Y Combinator to enhance our market presence and accelerate growth.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "When will you have a version people can use?",
+    "ai_answer": "We anticipate launching a public beta with a freemium model by September 2025.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.6,
+    "edited": false
+  },
+  {
+    "question": "How many active users or customers do you have? How many are paying? Who is paying you the most, and how much do they pay you?",
+    "ai_answer": "The company currently has 50 active users in their private beta program. None of these users are paying, as the company is in the pre-revenue beta testing phase. Therefore, there is no paying customer, and no one is paying the company anything at this stage.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "Please list all legal entities you have and in what state or country each was formed (e.g. Delaware C Corp, Mexican SAPI, Singapore Pvt Ltd, etc.).",
+    "ai_answer": "The company has formed a legal entity named Innovate Solutions Private Limited, which was formed in Karnataka, India.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "Please describe the breakdown of the equity ownership in percentages among the founders, employees and any other stockholders. If there are multiple founders, be sure to give the equity ownership of each founder and founder title (e.g. CEO).",
+    "ai_answer": "The equity ownership breakdown is as follows:\n\n- Rahul Verma (CEO): 50%\n- Anya Sharma (CTO): 50%\n- Employee stock option pool: 0% (planned for 10% post-funding)\n\nCurrently, there are no other stockholders or equity allocations beyond the founders. The employee stock option pool is planned to be established at 10% after securing funding.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "If you have not formed the company yet, describe the planned equity ownership breakdown among the founders, employees and any other proposed stockholders. If there are multiple founders, be sure to give the proposed equity ownership of each founder and founder title (e.g. CEO). (This question is as much for you as us.)",
+    "ai_answer": "The planned equity ownership breakdown for the company is as follows:\n\n- **Rahul Verma (CEO):** 50%\n- **Anya Sharma (CTO):** 50%\n- **Employee Stock Option Pool:** 0% currently, but there is a plan to allocate 10% post-funding.\n\nCurrently, there are no other proposed stockholders, as the company has not taken any investment yet. The founders, Rahul Verma and Anya Sharma, each hold an equal share of the company, and there is a plan to establish an employee stock option pool to incentivize future employees once funding is secured.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "List any investments your company has received. Include the name of the investor, the amount invested, the premoney valuation / valuation cap, the type of security sold (convertible notes, safes or stock), and the investment date.",
+    "ai_answer": "The company has not received any investments. The context explicitly states that they have not taken any investment and are currently not fundraising, as they are focused on product development and securing a spot in Y Combinator. Therefore, there are no details available regarding investors, amounts invested, premoney valuation, type of security sold, or investment dates.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "How much money have you raised from investors in total in US Dollars?",
+    "ai_answer": "The company has not raised any money from investors. They have $15,000 in the bank, which comes from personal savings from the founders.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  },
+  {
+    "question": "How much money does your company have in the bank now?",
+    "ai_answer": "The company currently has $15,000 in the bank, which is personal savings from the founders.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.6,
+    "edited": false
+  },
+  {
+    "question": "How much money do you spend per month?",
+    "ai_answer": "$3,000 per month (for cloud services, contractor fees, and software licenses).",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.6,
+    "edited": false
+  },
+  {
+    "question": "How long is your runway? (e.g. 5 months)",
+    "ai_answer": "Approximately 5 months.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.4,
+    "edited": false
+  },
+  {
+    "question": "Please provide any relevant details about your current fundraise.",
+    "ai_answer": "Currently, the company is not engaged in any fundraising activities. The focus is on product development and securing a spot in Y Combinator. The founders have not taken any investment so far and are relying on their personal savings, which amount to $15,000. They plan to consider fundraising after further developing their product and potentially after participating in Y Combinator. Additionally, they have plans to establish an employee stock option pool of 10% post-funding.",
+    "manual_answer": null,
+    "has_manual_input": false,
+    "confidence_score": 0.8,
+    "edited": false
+  }
+]
